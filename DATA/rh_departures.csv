@@ -1,0 +1,381 @@
+depart_id,employee_id,date_depart,motif_depart,duree_preavis_jours,anciennete_au_depart,departement,contrat,entretien_sortie,satisfaction_score,recommanderait_employeur,poste_pourvu
+5000,3153,2016-05-13,,0,-0.7,Direction,CDD,Non,,Non,Oui
+5001,2343,2022-10-24,,90,-0.4,Marketing,CDI,Non,,Oui,Oui
+5002,2765,2017-03-05,,90,-0.3,RH,CDI,Non,3,Non,Non
+5003,1416,2024-01-15,,0,-0.3,R&D,Alternance,Non,4,,
+5004,2165,2023-01-18,,90,-0.9,RH,Alternance,Non,,Oui,
+5005,1631,2017-10-12,,30,-0.2,Opérations,Stage,Non,,,
+5006,2574,2023-10-21,,60,-0.5,Juridique,Stage,Non,4,Oui,Non
+5007,2743,2020-07-25,,30,-0.9,Opérations,CDI,Non,2,,
+5008,2016,2023-07-03,,30,-0.7,RH,CDD,Oui,3,,Oui
+5009,3056,2017-02-26,,60,-0.3,Marketing,CDD,Non,,Oui,Non
+5010,2909,2017-06-03,,90,-0.3,RH,CDI,Oui,4,,En cours
+5011,2448,2020-05-24,,90,-0.8,Logistique,CDD,Non,5,Oui,
+5012,1117,2023-04-06,,60,-0.7,Marketing,CDI,Non,3,,Non
+5013,3028,2024-02-20,,60,-0.4,Finance,CDI,Non,2,Non,Non
+5014,2036,2024-05-17,,90,-0.2,Informatique,CDI,Oui,,Non,En cours
+5015,2502,2020-04-23,,90,-0.5,RH,CDI,Non,2,,Non
+5016,3204,2016-02-05,,30,-0.9,Direction,CDI,Non,4,Non,
+5017,2406,2021-06-09,,30,-0.2,Finance,Alternance,Non,,,Non
+5018,1966,2016-08-25,Licenciement économique,30,-0.9,Logistique,CDI,Oui,,,En cours
+5019,1335,2017-06-13,Licenciement économique,30,-0.2,Sales,CDI,Non,4,Non,Oui
+5020,3274,2022-03-08,Démission,60,-0.2,Marketing,CDI,Oui,4,,
+5021,2016,2023-06-10,Licenciement,0,-0.8,RH,CDD,Oui,2,,Oui
+5022,1124,2016-10-17,Mutation,60,1.6,Finance,CDI,Non,3,Non,Oui
+5023,2510,2024-12-31,Démission,90,0.8,Marketing,CDI,Oui,5,Oui,
+5024,1068,2024-07-15,Fin de contrat,30,2.0,Commercial,CDD,Non,4,,Oui
+5025,3204,2018-05-02,Mutation,30,1.3,Direction,CDI,Oui,3,Oui,Oui
+5026,2977,2024-12-31,Rupture conventionnelle,30,3.3,Commercial,CDI,Non,,Oui,En cours
+5027,1754,2024-08-10,Période d'essai non concluante,30,1.0,Finance,Alternance,Non,4,Oui,
+5028,1374,2021-11-12,Licenciement économique,60,5.9,Marketing,CDI,Oui,4,,Non
+5029,3029,2019-07-28,Démission,90,1.1,Commercial,CDI,Oui,,Oui,
+5030,2556,2020-12-16,Démission,30,4.0,Direction,CDI,Oui,,Oui,
+5031,1927,2020-10-30,Démission,90,5.0,Informatique,CDD,Non,,,En cours
+5032,3264,2020-07-22,Rupture conventionnelle,30,3.6,R&D,CDD,Non,2,Oui,Non
+5033,1128,2022-04-02,Démission,30,0.6,Direction,CDD,Oui,3,Oui,Oui
+5034,3398,2024-12-31,Rupture conventionnelle,90,4.1,Informatique,Stage,Oui,2,Non,Oui
+5035,3152,2019-08-24,Licenciement économique,60,2.5,Informatique,Stage,Non,4,,Oui
+5036,1616,2022-04-12,Licenciement économique,90,5.6,Finance,CDI,Oui,4,Oui,Non
+5037,2452,2024-12-31,Rupture conventionnelle,30,0.1,Direction,Interim,Non,4,Oui,Oui
+5038,2445,2017-08-02,Rupture conventionnelle,90,0.2,Logistique,CDI,Non,,Non,Non
+5039,3295,2020-05-18,Démission,90,1.1,RH,CDD,Non,2,Oui,Oui
+5040,1866,2024-12-31,Mutation,90,0.6,Informatique,Alternance,Non,,,En cours
+5041,3292,2024-12-31,Démission,60,0.0,RH,CDD,Oui,,Non,En cours
+5042,1642,2017-03-26,Fin de contrat,0,0.6,Juridique,CDI,Non,3,,
+5043,1425,2023-11-09,Fin de contrat,60,6.7,Juridique,CDI,Oui,2,,Oui
+5044,2625,2020-03-24,Licenciement,90,2.1,Commercial,CDD,Non,1,,Oui
+5045,1543,2015-09-20,Démission,90,0.6,Finance,CDI,Non,4,,Non
+5046,2196,2021-10-04,Période d'essai non concluante,90,6.0,Commercial,CDI,Oui,,Non,
+5047,1121,2022-02-03,Démission,90,5.3,Direction,CDD,Non,2,Oui,En cours
+5048,2120,2024-12-31,Démission,90,3.1,RH,CDD,Non,,,Non
+5049,2781,2024-12-31,Rupture conventionnelle,30,0.2,Logistique,Stage,Non,4,,
+5050,2813,2024-07-08,Rupture conventionnelle,30,3.5,Finance,Interim,Oui,3,,En cours
+5051,1996,2022-12-26,Période d'essai non concluante,30,2.5,Marketing,CDI,Oui,,Oui,Oui
+5052,2010,2024-03-31,Licenciement,90,6.3,Informatique,CDD,Non,,,En cours
+5053,1494,2019-09-11,Licenciement économique,90,0.3,Opérations,CDD,Oui,3,Oui,Non
+5054,2077,2024-12-31,Mutation,90,5.2,Logistique,Interim,Non,2,,Non
+5055,1256,2023-09-02,Démission,60,5.6,Logistique,CDI,Oui,,Oui,Non
+5056,2653,2020-06-14,Démission,0,0.8,Finance,CDI,Oui,1,Non,Oui
+5057,2283,2023-08-18,Période d'essai non concluante,0,5.9,Opérations,Interim,Oui,3,Oui,En cours
+5058,1655,2024-12-31,Rupture conventionnelle,30,1.0,Commercial,CDI,Oui,3,,En cours
+5059,2091,2015-12-31,Rupture conventionnelle,30,0.8,Direction,CDI,Oui,1,Oui,Oui
+5060,2613,2024-12-31,Fin de contrat,30,2.6,Marketing,CDI,Non,3,Non,Non
+5061,2488,2020-12-12,Démission,0,5.3,Finance,CDI,Oui,,,En cours
+5062,1311,2024-12-31,Démission,60,2.4,Opérations,CDI,Non,4,,
+5063,2632,2020-12-13,Période d'essai non concluante,60,4.3,Logistique,CDI,Non,,,Non
+5064,1416,2024-12-31,Licenciement,90,0.7,R&D,Alternance,Non,,,Non
+5065,2406,2024-12-31,Mutation,30,3.3,Finance,Alternance,Oui,,,Oui
+5066,1743,2016-09-21,Démission,60,1.1,Marketing,Alternance,Non,,,Non
+5067,2776,2024-12-31,Retraite,30,0.7,Juridique,CDI,Non,2,,Oui
+5068,1445,2023-07-08,Rupture conventionnelle,0,1.8,Informatique,CDI,Oui,,Oui,Oui
+5069,2776,2024-12-31,Licenciement,90,0.7,Juridique,CDI,Oui,2,Oui,Oui
+5070,1254,2019-01-06,Rupture conventionnelle,30,3.5,Finance,CDD,Non,3,,Oui
+5071,1673,2018-08-12,Autre,0,2.5,Direction,CDI,Oui,2,,En cours
+5072,2344,2021-11-02,Démission,30,5.4,R&D,CDI,Non,,Non,Non
+5073,2617,2018-05-10,Licenciement,90,2.3,Opérations,CDI,Oui,3,Non,Oui
+5074,2242,2024-02-11,Démission,30,3.4,Commercial,Stage,Oui,2,Oui,Oui
+5075,2503,2024-12-31,Mutation,30,1.1,Informatique,Alternance,Oui,,,Oui
+5076,2556,2018-02-26,Démission,90,1.2,Direction,CDI,Non,,Non,Non
+5077,2120,2024-12-31,Retraite,30,3.1,RH,CDD,Non,1,Oui,Non
+5078,2120,2024-11-30,Démission,0,3.0,RH,CDD,Oui,3,Non,Non
+5079,1596,2021-04-20,Démission,0,4.7,R&D,CDI,Non,,Oui,Oui
+5080,2038,2019-01-01,Période d'essai non concluante,90,3.6,Informatique,Stage,Oui,3,Oui,Non
+5081,2565,2017-04-01,Fin de contrat,30,0.9,Informatique,CDD,Non,,Oui,En cours
+5082,2556,2022-05-05,Rupture conventionnelle,60,5.3,Direction,CDI,Non,2,Non,En cours
+5083,3274,2024-12-31,Démission,30,2.7,Marketing,CDI,Oui,2,Oui,Oui
+5084,3293,2020-12-21,Démission,90,2.4,Finance,CDD,Oui,1,Oui,Non
+5085,2243,2024-12-31,Démission,0,0.1,Direction,CDI,Non,,Oui,Oui
+5086,3136,2024-12-31,Rupture conventionnelle,90,2.9,Finance,Alternance,Oui,2,Oui,En cours
+5087,1068,2024-12-31,Démission,30,2.4,Commercial,CDD,Oui,2,Oui,Oui
+5088,2283,2024-07-05,Rupture conventionnelle,0,6.8,Opérations,Interim,Oui,2,Non,Oui
+5089,1070,2024-12-31,Période d'essai non concluante,90,3.6,Opérations,CDI,Oui,3,Oui,En cours
+5090,1228,2018-11-21,Mutation,60,2.8,Informatique,CDI,Non,5,Oui,Non
+5091,1957,2023-11-27,Démission,0,5.6,Finance,CDD,Oui,3,Oui,
+5092,1254,2016-12-12,Autre,90,1.5,Finance,CDD,Non,3,Oui,Non
+5093,1770,2021-12-31,Période d'essai non concluante,30,1.4,R&D,CDD,Oui,2,Oui,Oui
+5094,2665,2020-10-25,Licenciement,90,3.1,Direction,CDI,Non,1,,Oui
+5095,2009,2021-05-23,Autre,60,6.0,Finance,CDI,Non,4,Oui,En cours
+5096,2343,2024-12-31,Démission,90,1.8,Marketing,CDI,Non,,,Oui
+5097,1681,2024-06-28,Autre,60,1.0,Logistique,CDI,Oui,3,Oui,En cours
+5098,2406,2024-01-13,Rupture conventionnelle,90,2.4,Finance,Alternance,Oui,,Oui,Oui
+5099,1710,2024-12-31,Autre,90,2.7,Opérations,CDD,Non,1,Non,
+5100,2761,2018-10-30,Licenciement économique,0,2.5,Informatique,Alternance,Non,5,Oui,Oui
+5101,2909,2024-07-11,Fin de contrat,90,6.8,RH,CDI,Non,,,En cours
+5102,1669,2024-02-28,Fin de contrat,30,1.7,Juridique,CDI,Oui,5,Oui,Oui
+5103,3376,2023-04-16,Mutation,90,1.4,Opérations,CDI,Non,,Oui,Oui
+5104,2132,2021-12-25,Fin de contrat,0,5.7,RH,CDI,Oui,1,Oui,En cours
+5105,1320,2023-08-25,Fin de contrat,30,3.0,Commercial,Interim,Non,3,Oui,En cours
+5106,1862,2024-12-31,Fin de contrat,60,2.2,RH,CDI,Non,,Oui,
+5107,1488,2024-12-31,Rupture conventionnelle,30,0.2,Finance,CDI,Non,,Oui,
+5108,3376,2024-03-02,Rupture conventionnelle,30,2.3,Opérations,CDI,Non,,Non,Non
+5109,2091,2019-03-10,Fin de contrat,90,4.0,Direction,CDI,Non,4,Oui,Oui
+5110,1225,2022-03-04,Autre,60,6.6,R&D,CDD,Oui,3,,
+5111,1311,2024-12-31,Rupture conventionnelle,60,2.4,Opérations,CDI,Non,,Non,
+5112,2321,2023-12-06,Retraite,60,2.4,Informatique,CDI,Oui,3,Non,Oui
+5113,1191,2020-02-27,Fin de contrat,0,0.4,R&D,CDD,Oui,3,,Non
+5114,3295,2023-07-26,Fin de contrat,90,4.2,RH,CDD,Non,4,,
+5115,2632,2022-03-15,Fin de contrat,90,5.5,Logistique,CDI,Oui,4,Non,En cours
+5116,2648,2017-02-28,Licenciement économique,0,1.6,Direction,CDI,Oui,2,,Non
+5117,2909,2019-10-04,Rupture conventionnelle,90,2.1,RH,CDI,Non,4,Oui,Oui
+5118,2155,2024-12-31,Fin de contrat,90,0.0,Informatique,CDI,Oui,,Oui,Oui
+5119,2853,2022-08-23,Licenciement,0,3.0,RH,CDD,Non,2,Oui,Oui
+5120,1273,2024-12-23,Licenciement économique,90,2.6,Informatique,CDI,Oui,2,,
+5121,1927,2017-04-21,Fin de contrat,0,1.5,Informatique,CDD,Non,1,Non,En cours
+5122,2776,2024-12-31,Retraite,90,0.7,Juridique,CDI,Oui,4,Oui,Non
+5123,3015,2020-03-20,Mutation,90,4.0,Commercial,CDI,Non,4,,Non
+5124,2743,2024-12-31,Fin de contrat,90,3.5,Opérations,CDI,Non,,,Oui
+5125,1642,2021-11-22,Fin de contrat,0,5.2,Juridique,CDI,Oui,3,,Non
+5126,2068,2021-02-17,Retraite,30,3.3,R&D,Interim,Non,,,En cours
+5127,1494,2019-09-04,Démission,30,0.3,Opérations,CDD,Oui,2,Oui,En cours
+5128,1333,2019-01-05,Autre,60,1.9,R&D,CDI,Oui,3,Oui,En cours
+5129,2235,2022-05-09,Démission,90,3.2,Informatique,Stage,Oui,2,,Oui
+5130,2535,2024-12-31,Rupture conventionnelle,30,3.9,Direction,CDI,Non,,Oui,
+5131,1527,2020-09-01,Autre,0,5.2,Informatique,Stage,Non,3,,Oui
+5132,2721,2024-05-30,Mutation,60,1.1,Opérations,CDI,Non,1,Oui,Oui
+5133,1957,2020-08-05,Autre,60,2.3,Finance,CDD,Oui,3,Oui,Oui
+5134,2400,2024-12-31,Fin de contrat,90,1.8,Finance,CDI,Non,3,Non,En cours
+5135,1746,2022-11-15,Période d'essai non concluante,0,0.5,Finance,CDI,Non,2,,
+5136,1374,2022-07-27,Période d'essai non concluante,30,6.6,Marketing,CDI,Oui,3,Non,
+5137,1952,2024-12-31,Retraite,30,2.1,Informatique,CDI,Oui,4,,
+5138,1626,2020-11-26,Démission,30,3.5,Commercial,CDI,Oui,5,,En cours
+5139,3047,2024-12-31,Démission,30,1.8,Juridique,Stage,Non,1,Oui,Oui
+5140,2012,2023-09-21,Rupture conventionnelle,90,0.9,R&D,CDD,Oui,3,,En cours
+5141,2132,2019-08-14,Autre,90,3.4,RH,CDI,Non,,Non,Oui
+5142,2077,2021-04-15,Période d'essai non concluante,60,1.5,Logistique,Interim,Oui,,Non,Oui
+5143,2605,2022-02-18,Rupture conventionnelle,90,3.3,Commercial,CDI,Non,5,Oui,Oui
+5144,1281,2016-04-20,Démission,60,1.2,Direction,CDI,Non,,Oui,Oui
+5145,2010,2021-12-06,Licenciement économique,60,4.0,Informatique,CDD,Oui,3,Oui,Non
+5146,1470,2018-10-20,Fin de contrat,90,3.5,RH,Stage,Oui,3,Non,Oui
+5147,2077,2023-11-26,Autre,30,4.1,Logistique,Interim,Non,3,Non,En cours
+5148,2242,2024-12-31,Période d'essai non concluante,60,4.2,Commercial,Stage,Non,4,,
+5149,3136,2023-09-08,Fin de contrat,90,1.6,Finance,Alternance,Oui,2,,Non
+5150,3392,2019-10-12,Rupture conventionnelle,90,3.2,Marketing,CDI,Oui,5,Oui,Oui
+5151,3015,2022-03-19,Démission,90,6.0,Commercial,CDI,Oui,2,Oui,En cours
+5152,3024,2024-12-31,Fin de contrat,90,2.7,RH,CDI,Oui,1,,
+5153,1877,2024-12-31,Démission,60,1.2,R&D,CDI,Oui,3,,Non
+5154,1543,2019-07-13,Mutation,90,4.4,Finance,CDI,Oui,2,Oui,
+5155,2171,2018-08-24,Rupture conventionnelle,90,0.8,Juridique,CDI,Non,3,Non,Non
+5156,2321,2024-02-15,Autre,90,2.5,Informatique,CDI,Oui,,Oui,Non
+5157,2314,2024-12-31,Période d'essai non concluante,60,2.4,Finance,CDD,Oui,5,,
+5158,1416,2024-12-31,Démission,0,0.7,R&D,Alternance,Non,,Oui,Oui
+5159,1609,2024-12-31,Démission,30,2.7,Direction,CDI,Non,2,Non,Oui
+5160,3136,2022-08-20,Démission,90,0.5,Finance,Alternance,Oui,4,,
+5161,2575,2016-11-29,Licenciement économique,90,0.8,Commercial,CDI,Oui,4,,Oui
+5162,1609,2024-12-31,Licenciement,60,2.7,Direction,CDI,Oui,3,Oui,Oui
+5163,2183,2020-10-02,Démission,60,4.2,Direction,CDD,Non,3,,
+5164,1533,2018-02-24,Démission,90,1.4,Logistique,CDI,Oui,3,,Oui
+5165,2134,2024-12-31,Autre,0,0.2,Direction,CDI,Oui,5,Oui,Oui
+5166,2354,2024-12-31,Licenciement économique,90,0.7,Marketing,CDI,Oui,4,Oui,Oui
+5167,1311,2023-03-16,Autre,60,0.6,Opérations,CDI,Oui,1,Oui,
+5168,3356,2024-12-31,Fin de contrat,90,2.4,Finance,CDD,Non,2,,En cours
+5169,3333,2022-07-20,Licenciement économique,60,6.2,Juridique,Alternance,Oui,2,Oui,En cours
+5170,1635,2021-02-16,Autre,60,0.8,Informatique,CDI,Non,,,Non
+5171,2360,2022-01-10,Démission,60,3.7,RH,CDI,Non,5,,Non
+5172,2945,2023-04-18,Rupture conventionnelle,90,1.2,R&D,CDI,Oui,,Oui,En cours
+5173,1232,2024-12-31,Retraite,60,4.3,Marketing,CDI,Non,1,Oui,Oui
+5174,3327,2024-12-31,Autre,30,0.6,Commercial,CDI,Oui,1,Non,En cours
+5175,1756,2023-06-13,Fin de contrat,90,4.6,Finance,CDD,Oui,3,Non,En cours
+5176,1543,2019-02-14,Licenciement,30,4.0,Finance,CDI,Non,3,Non,Oui
+5177,1256,2023-05-16,Autre,30,5.3,Logistique,CDI,Oui,4,Non,Non
+5178,3293,2023-07-17,Licenciement,90,5.0,Finance,CDD,Oui,,Non,Non
+5179,3394,2021-02-28,Rupture conventionnelle,90,4.6,Commercial,Interim,Non,2,Non,Non
+5180,1684,2024-12-31,Autre,60,1.2,R&D,CDD,Oui,,Oui,Oui
+5181,2404,2024-12-31,Licenciement économique,30,1.6,R&D,CDD,Oui,4,Oui,Oui
+5182,3156,2021-05-09,Licenciement économique,60,1.7,Informatique,CDI,Oui,3,,Oui
+5183,2445,2023-06-29,Période d'essai non concluante,30,6.1,Logistique,CDI,Non,2,Oui,Oui
+5184,3394,2018-03-31,Rupture conventionnelle,30,1.7,Commercial,Interim,Oui,2,Non,Non
+5185,2132,2018-10-04,Démission,0,2.5,RH,CDI,Oui,3,,Oui
+5186,1450,2024-12-31,Retraite,90,4.6,Finance,CDI,Non,2,Non,Non
+5187,1662,2022-09-24,Rupture conventionnelle,90,2.5,Direction,CDI,Oui,3,Non,Oui
+5188,3172,2019-09-22,Démission,90,2.4,Marketing,CDI,Oui,,Oui,
+5189,2630,2024-12-31,Licenciement,30,1.3,Finance,CDI,Non,,Oui,Oui
+5190,3321,2024-12-31,Mutation,90,4.6,Juridique,CDD,Oui,3,,Oui
+5191,2523,2024-10-05,Rupture conventionnelle,90,1.3,Marketing,CDD,Oui,,,Oui
+5192,2120,2024-12-31,Mutation,90,3.1,RH,CDD,Non,,Oui,En cours
+5193,3029,2022-10-26,Licenciement,90,4.3,Commercial,CDI,Non,3,Non,Oui
+5194,2595,2024-12-31,Période d'essai non concluante,90,3.3,Opérations,CDD,Non,3,,
+5195,1469,2024-03-15,Démission,30,5.0,Direction,Stage,Non,3,Non,En cours
+5196,1320,2024-12-31,Rupture conventionnelle,90,4.3,Commercial,Interim,Non,,Non,Non
+5197,1124,2021-03-26,Fin de contrat,90,6.1,Finance,CDI,Oui,,Oui,Oui
+5198,3289,2024-12-31,Mutation,90,4.1,Marketing,CDI,Non,3,Non,Oui
+5199,1937,2021-07-01,Démission,30,0.4,Informatique,CDI,Oui,,Oui,Non
+5200,1812,2024-12-31,Autre,30,0.9,Juridique,CDI,Non,2,Oui,Oui
+5201,1374,2016-03-27,Licenciement économique,60,0.3,Marketing,CDI,Non,,Oui,En cours
+5202,1444,2024-12-31,Rupture conventionnelle,90,2.3,Commercial,CDI,Oui,3,,En cours
+5203,2235,2020-05-29,Retraite,30,1.2,Informatique,Stage,Non,,Oui,En cours
+5204,1214,2022-05-01,Retraite,90,1.8,R&D,CDI,Non,,Oui,Oui
+5205,3318,2022-11-04,Démission,30,6.1,Juridique,CDI,Non,2,,En cours
+5206,2242,2022-08-20,Licenciement,0,1.9,Commercial,Stage,Non,,,Oui
+5207,1616,2020-03-13,Retraite,30,3.5,Finance,CDI,Oui,4,Non,
+5208,2009,2019-05-07,Fin de contrat,90,3.9,Finance,CDI,Oui,3,Oui,
+5209,1924,2020-11-10,Fin de contrat,90,3.8,Informatique,Stage,Non,4,,Non
+5210,1320,2021-09-07,Démission,60,1.0,Commercial,Interim,Non,5,Non,Oui
+5211,1281,2016-12-18,Démission,90,1.8,Direction,CDI,Oui,,Non,En cours
+5212,2038,2019-11-15,Licenciement économique,90,4.4,Informatique,Stage,Oui,,Non,Non
+5213,2535,2024-12-31,Période d'essai non concluante,30,3.9,Direction,CDI,Oui,2,Non,Oui
+5214,2010,2023-10-22,Fin de contrat,60,5.8,Informatique,CDD,Non,3,Oui,Oui
+5215,1412,2023-11-26,Autre,0,4.6,Opérations,CDI,Oui,,Oui,Oui
+5216,2813,2024-07-30,Rupture conventionnelle,90,3.6,Finance,Interim,Non,4,Oui,En cours
+5217,1212,2021-12-14,Fin de contrat,60,1.9,R&D,CDD,Non,5,Oui,
+5218,1320,2024-12-31,Licenciement,90,4.3,Commercial,Interim,Non,4,,Oui
+5219,2981,2024-12-31,Autre,0,1.4,Marketing,CDI,Non,,Oui,
+5220,1320,2024-12-31,Licenciement économique,0,4.3,Commercial,Interim,Non,,,
+5221,3096,2017-08-16,Licenciement,30,0.3,Logistique,CDI,Non,3,,En cours
+5222,3176,2024-06-17,Fin de contrat,30,6.6,Finance,CDI,Non,3,Non,
+5223,2523,2024-12-31,Période d'essai non concluante,0,1.5,Marketing,CDD,Oui,4,Non,
+5224,2721,2023-10-17,Licenciement,90,0.5,Opérations,CDI,Non,4,,Oui
+5225,1752,2024-12-31,Rupture conventionnelle,60,1.6,Juridique,CDI,Non,5,,Oui
+5226,2354,2024-12-31,Fin de contrat,90,0.7,Marketing,CDI,Non,3,Non,Non
+5227,1952,2023-07-12,Licenciement économique,90,0.6,Informatique,CDI,Non,4,Oui,Oui
+5228,2448,2021-10-27,Démission,60,0.6,Logistique,CDD,Oui,4,Oui,Oui
+5229,3274,2023-01-07,Retraite,90,0.7,Marketing,CDI,Oui,,,Non
+5230,3189,2019-07-08,Fin de contrat,30,2.0,Finance,CDI,Non,3,,Non
+5231,2354,2024-12-31,Licenciement,90,0.7,Marketing,CDI,Oui,2,Non,Oui
+5232,1425,2021-08-31,Fin de contrat,0,4.5,Juridique,CDI,Non,5,Oui,Oui
+5233,1347,2022-09-14,Fin de contrat,0,6.3,Marketing,CDD,Non,3,,
+5234,2911,2024-11-20,Démission,60,4.4,Direction,CDI,Non,,Oui,Oui
+5235,2120,2024-12-31,Rupture conventionnelle,30,3.1,RH,CDD,Non,5,,
+5236,3149,2016-12-19,Démission,60,1.1,Direction,CDD,Oui,2,Oui,Non
+5237,2333,2024-12-31,Retraite,90,2.0,Marketing,CDD,Oui,4,,Non
+5238,2295,2020-09-10,Rupture conventionnelle,90,4.7,Informatique,Alternance,Oui,2,Oui,Oui
+5239,1769,2019-03-04,Licenciement,0,3.6,Opérations,CDI,Non,,Non,Oui
+5240,2971,2023-06-04,Rupture conventionnelle,30,4.3,Opérations,CDD,Non,,,Oui
+5241,3324,2018-08-29,Licenciement,90,2.7,R&D,Alternance,Non,1,Oui,Oui
+5242,2690,2023-01-25,Autre,30,5.6,Commercial,CDI,Non,1,Oui,Oui
+5243,1957,2020-07-17,Autre,30,2.2,Finance,CDD,Non,5,Oui,
+5244,1254,2019-11-11,Démission,90,4.4,Finance,CDD,Non,,Oui,
+5245,3029,2024-12-31,Démission,90,6.5,Commercial,CDI,Oui,4,,Oui
+5246,1425,2021-01-27,Retraite,0,3.9,Juridique,CDI,Oui,,Oui,Oui
+5247,3153,2021-10-20,Rupture conventionnelle,90,4.8,Direction,CDD,Oui,,,En cours
+5248,1824,2024-12-31,Rupture conventionnelle,0,0.5,Marketing,CDD,Oui,,,
+5249,1609,2024-09-16,Démission,90,2.5,Direction,CDI,Non,4,Oui,En cours
+5250,3324,2020-11-21,Démission,0,4.9,R&D,Alternance,Non,3,Non,Oui
+5251,2776,2024-12-31,Retraite,30,0.7,Juridique,CDI,Non,2,Non,Oui
+5252,1743,2018-10-08,Mutation,0,3.1,Marketing,Alternance,Oui,3,,Oui
+5253,2235,2024-12-02,Rupture conventionnelle,30,5.7,Informatique,Stage,Non,4,,Oui
+5254,1128,2024-09-15,Démission,90,3.0,Direction,CDD,Non,4,Oui,Oui
+5255,1482,2020-01-30,Démission,90,4.8,Juridique,CDI,Oui,1,Non,Oui
+5256,2126,2024-12-31,Démission,30,4.6,Opérations,Interim,Non,4,,Oui
+5257,2242,2022-02-27,Rupture conventionnelle,0,1.4,Commercial,Stage,Non,1,Oui,
+5258,2046,2021-12-24,Période d'essai non concluante,90,1.5,Direction,Stage,Oui,,Non,
+5259,1866,2024-12-31,Démission,0,0.6,Informatique,Alternance,Non,4,Oui,
+5260,1416,2024-12-31,Démission,90,0.7,R&D,Alternance,Oui,4,Non,Oui
+5261,1225,2018-11-26,Licenciement,90,3.4,R&D,CDD,Non,4,Oui,
+5262,2677,2018-07-23,Période d'essai non concluante,90,0.4,Informatique,CDD,Non,,Oui,
+5263,2485,2022-06-30,Fin de contrat,0,6.3,R&D,CDI,Non,1,,Oui
+5264,2648,2016-06-06,Autre,30,0.9,Direction,CDI,Oui,3,,Oui
+5265,1928,2017-06-23,Autre,60,1.5,Informatique,CDD,Non,2,Oui,Oui
+5266,2016,2024-12-31,Autre,90,0.8,RH,CDD,Non,1,Oui,Oui
+5267,1642,2017-12-20,Démission,30,1.3,Juridique,CDI,Non,3,,En cours
+5268,1743,2019-06-12,Fin de contrat,30,3.8,Marketing,Alternance,Non,4,Oui,En cours
+5269,2813,2024-12-31,Autre,90,4.0,Finance,Interim,Oui,4,Oui,Oui
+5270,1068,2024-03-13,Rupture conventionnelle,90,1.6,Commercial,CDD,Non,4,,En cours
+5271,1684,2024-12-31,Retraite,90,1.2,R&D,CDD,Oui,,,
+5272,2442,2024-12-31,Démission,30,4.6,Logistique,CDI,Non,3,Oui,Non
+5273,1749,2022-11-10,Retraite,30,0.3,Logistique,CDI,Non,5,,En cours
+5274,1756,2022-07-17,Mutation,30,3.7,Finance,CDD,Oui,,,En cours
+5275,2485,2020-09-25,Démission,90,4.5,R&D,CDI,Non,4,Non,Oui
+5276,3000,2021-07-09,Rupture conventionnelle,30,4.5,Opérations,CDI,Oui,,,Oui
+5277,1897,2018-11-15,Période d'essai non concluante,90,3.5,Opérations,CDD,Non,,,
+5278,1544,2023-03-17,Licenciement économique,90,1.7,Direction,Stage,Oui,,,En cours
+5279,1677,2022-10-31,Licenciement économique,60,1.5,RH,CDI,Oui,,,En cours
+5280,3362,2024-12-31,Retraite,30,1.2,Marketing,CDI,Non,2,,En cours
+5281,3076,2024-12-31,Autre,90,5.7,Commercial,CDI,Oui,4,,Oui
+5282,1633,2022-08-21,Licenciement économique,30,4.6,Opérations,CDI,Oui,5,,Non
+5283,2333,2024-11-29,Licenciement,0,1.9,Marketing,CDD,Non,2,Non,Oui
+5284,1609,2024-12-31,Fin de contrat,30,2.7,Direction,CDI,Oui,3,,Oui
+5285,3015,2020-10-13,Démission,0,4.5,Commercial,CDI,Non,4,Oui,
+5286,1636,2020-01-26,Rupture conventionnelle,0,4.5,Marketing,CDI,Oui,2,,Oui
+5287,2690,2019-05-08,Mutation,0,1.8,Commercial,CDI,Non,3,,Oui
+5288,3293,2020-10-19,Démission,90,2.3,Finance,CDD,Non,3,,En cours
+5289,3152,2021-01-03,Retraite,90,3.9,Informatique,Stage,Oui,3,Non,Oui
+5290,2445,2018-12-09,Période d'essai non concluante,90,1.6,Logistique,CDI,Oui,2,Oui,
+5291,1677,2023-02-14,Fin de contrat,90,1.8,RH,CDI,Non,3,Oui,Non
+5292,2776,2024-12-31,Autre,0,0.7,Juridique,CDI,Non,5,Oui,Oui
+5293,2153,2024-03-20,Mutation,90,2.4,Commercial,CDI,Non,5,Oui,
+5294,1228,2019-09-05,Autre,0,3.6,Informatique,CDI,Oui,2,Oui,En cours
+5295,1721,2017-01-29,Démission,30,1.8,Juridique,Alternance,Oui,5,Oui,
+5296,2645,2021-09-27,Démission,90,1.1,Finance,CDI,Oui,1,Oui,
+5297,2317,2017-06-02,Démission,30,1.9,Opérations,Interim,Non,4,,
+5298,3176,2020-06-14,Licenciement,90,2.6,Finance,CDI,Non,,,En cours
+5299,2755,2022-02-17,Licenciement économique,30,4.1,Informatique,Stage,Oui,3,Oui,
+5300,1191,2021-07-30,Période d'essai non concluante,30,1.8,R&D,CDD,Non,,Non,Non
+5301,1273,2024-12-31,Démission,90,2.6,Informatique,CDI,Oui,,,Oui
+5302,3276,2017-06-24,Rupture conventionnelle,0,1.5,Informatique,CDI,Non,,Oui,Oui
+5303,1752,2023-10-19,Démission,30,0.4,Juridique,CDI,Oui,3,,Non
+5304,1024,2024-12-31,Rupture conventionnelle,90,2.0,Juridique,CDI,Oui,,,Oui
+5305,1450,2023-07-05,Licenciement économique,60,3.1,Finance,CDI,Non,4,,En cours
+5306,2333,2024-12-31,Rupture conventionnelle,30,2.0,Marketing,CDD,Non,5,,Non
+5307,2150,2024-12-31,Période d'essai non concluante,0,0.4,Finance,CDD,Oui,2,Oui,En cours
+5308,2077,2022-04-19,Mutation,0,2.5,Logistique,Interim,Oui,4,Oui,Non
+5309,2118,2017-11-09,Autre,30,1.3,Opérations,CDD,Oui,2,,Oui
+5310,2705,2019-11-06,Fin de contrat,60,0.6,Logistique,CDI,Oui,2,,Non
+5311,2453,2016-05-12,Démission,90,0.2,RH,CDI,Oui,4,Oui,Non
+5312,2060,2023-03-05,Retraite,30,4.2,Logistique,CDI,Non,4,,Non
+5313,1301,2024-12-31,Fin de contrat,30,2.6,Commercial,CDI,Oui,2,Oui,
+5314,1966,2018-10-29,Mutation,0,1.2,Logistique,CDI,Non,3,Non,Oui
+5315,2945,2024-12-31,Démission,60,2.9,R&D,CDI,Non,4,Oui,En cours
+5316,1494,2020-08-10,Autre,0,1.2,Opérations,CDD,Oui,3,,Oui
+5317,1194,2019-05-30,Retraite,90,3.5,R&D,CDI,Non,4,Oui,Non
+5318,2295,2020-09-29,Démission,90,4.8,Informatique,Alternance,Oui,,Oui,
+5319,1254,2020-12-30,Licenciement économique,90,5.5,Finance,CDD,Oui,2,Oui,Non
+5320,2721,2024-12-31,Rupture conventionnelle,30,1.7,Opérations,CDI,Non,3,Non,En cours
+5321,2503,2024-12-31,Démission,90,1.1,Informatique,Alternance,Non,3,Oui,Oui
+5322,2630,2024-12-31,Démission,0,1.3,Finance,CDI,Oui,2,Non,
+5323,1070,2024-07-06,Démission,90,3.1,Opérations,CDI,Non,1,,En cours
+5324,2653,2021-02-08,Période d'essai non concluante,30,1.5,Finance,CDI,Oui,,Non,En cours
+5325,3136,2024-12-31,Rupture conventionnelle,30,2.9,Finance,Alternance,Non,5,,Oui
+5326,2469,2015-06-06,Licenciement économique,30,0.4,Logistique,CDI,Non,4,,En cours
+5327,2324,2021-12-09,Rupture conventionnelle,90,0.2,Commercial,CDI,Non,2,Non,
+5328,2765,2018-12-22,Autre,30,1.5,RH,CDI,Oui,,Oui,Oui
+5329,1877,2024-12-31,Rupture conventionnelle,30,1.2,R&D,CDI,Non,,Non,En cours
+5330,3136,2024-12-31,Démission,60,2.9,Finance,Alternance,Non,3,Non,
+5331,2653,2022-01-02,Fin de contrat,0,2.4,Finance,CDI,Oui,4,Oui,En cours
+5332,3123,2021-07-28,Autre,90,2.0,Commercial,CDI,Oui,4,,En cours
+5333,1256,2021-04-04,Licenciement,90,3.2,Logistique,CDI,Oui,2,Non,Oui
+5334,2016,2024-12-31,Licenciement,30,0.8,RH,CDD,Non,3,Oui,
+5335,1655,2024-12-31,Mutation,90,1.0,Commercial,CDI,Non,4,,Oui
+5336,3099,2021-11-30,Démission,30,3.1,Commercial,CDI,Oui,4,Non,En cours
+5337,1684,2024-12-02,Autre,60,1.2,R&D,CDD,Oui,1,,
+5338,1681,2024-12-31,Mutation,30,1.5,Logistique,CDI,Non,2,Oui,En cours
+5339,2690,2024-02-29,Licenciement,30,6.7,Commercial,CDI,Oui,,,
+5340,2822,2020-01-19,Retraite,0,2.0,Marketing,CDI,Oui,5,Oui,Oui
+5341,2677,2020-09-02,Fin de contrat,60,2.5,Informatique,CDD,Oui,4,,
+5342,2239,2019-04-06,Licenciement économique,60,2.2,Marketing,CDI,Non,4,Oui,En cours
+5343,2930,2024-12-31,Retraite,30,3.3,Logistique,Stage,Oui,4,Oui,En cours
+5344,2289,2019-04-14,Démission,30,2.5,Marketing,Alternance,Non,3,Oui,Oui
+5345,2575,2020-02-12,Autre,30,4.0,Commercial,CDI,Non,1,Oui,
+5346,2015,2021-02-04,Autre,60,2.2,RH,CDD,Non,2,Non,Oui
+5347,2324,2024-12-31,Démission,60,3.3,Commercial,CDI,Non,1,Oui,Oui
+5348,2776,2024-12-31,Retraite,30,0.7,Juridique,CDI,Oui,4,,
+5349,2525,2024-12-31,Démission,30,2.1,Operations,CDD,Oui,3,,Non
+5350,1642,2018-07-30,Fin de contrat,0,1.9,Juridique,CDI,Non,,Oui,Oui
+5351,2502,2024-12-31,Démission,60,4.1,RH,CDI,Non,3,,
+5352,2125,2024-12-31,Autre,90,0.9,Marketing,CDI,Oui,,Oui,Oui
+5353,3281,2022-08-18,Rupture conventionnelle,30,5.6,Finance,CDD,Oui,1,,En cours
+5354,2721,2024-12-31,Mutation,60,1.7,Opérations,CDI,Oui,4,,Oui
+5355,1444,2024-12-31,Licenciement économique,90,2.3,Commercial,CDI,Oui,1,Non,Oui
+5356,3056,2019-09-09,Fin de contrat,60,2.2,Marketing,CDD,Oui,,Non,Oui
+5357,1015,2024-12-31,Retraite,60,1.0,Logistique,CDI,Non,5,Non,Non
+5358,2659,2024-12-31,Mutation,0,3.3,Opérations,CDI,Oui,4,,En cours
+5359,1298,2024-10-23,Rupture conventionnelle,60,1.9,R&D,CDI,Oui,2,Oui,Non
+5360,3327,2024-12-31,Mutation,60,0.6,Commercial,CDI,Non,3,Non,En cours
+5361,2036,2024-12-31,Rupture conventionnelle,60,0.4,Informatique,CDI,Non,4,Oui,
+5362,1366,2022-01-28,Autre,60,6.3,Commercial,CDI,Oui,1,Oui,Non
+5363,2565,2018-09-23,Rupture conventionnelle,30,2.4,Informatique,CDD,Non,5,Oui,Non
+5364,1971,2021-03-11,Fin de contrat,60,2.3,Logistique,CDI,Non,5,Oui,Oui
+5365,1927,2018-03-25,Rupture conventionnelle,30,2.4,Informatique,CDD,Non,5,,Non
+5366,3189,2020-08-14,Licenciement,90,3.1,Finance,CDI,Non,5,,En cours
+5367,2822,2024-09-20,Fin de contrat,90,6.7,Marketing,CDI,Non,2,,Non
+5368,9080,2022-11-03,Rupture conventionnelle,30,2.8,Inconnu,Inconnu,Non,4,Oui,Oui
+5369,9032,2020-06-05,Fin de contrat,30,0.4,Inconnu,Inconnu,Non,5,Non,
+5370,9082,2020-03-23,Période d'essai non concluante,90,0.2,Inconnu,Inconnu,Non,,Oui,
+5371,9050,2023-09-11,Mutation,30,3.7,Inconnu,Inconnu,Non,3,,Oui
+5372,9030,2024-12-31,Fin de contrat,30,5.0,Inconnu,Inconnu,Non,1,,
+5373,9000,2024-05-13,Rupture conventionnelle,30,4.4,Inconnu,Inconnu,Oui,3,Oui,Non
+5374,9051,2024-12-31,Démission,30,5.0,Inconnu,Inconnu,Oui,,Oui,Oui
+5375,9052,2024-06-03,Période d'essai non concluante,30,4.4,Inconnu,Inconnu,Non,1,,Oui
+5376,9060,2022-08-24,Fin de contrat,60,2.6,Inconnu,Inconnu,Oui,3,Oui,Non
+5377,9000,2024-06-30,Démission,30,4.5,Inconnu,Inconnu,Oui,3,Oui,Non
+5378,9013,2020-09-04,Démission,90,0.7,Inconnu,Inconnu,Non,4,Oui,Oui
+5379,9068,2024-12-31,Retraite,90,5.0,Inconnu,Inconnu,Non,3,Non,Non
